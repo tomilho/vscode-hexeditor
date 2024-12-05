@@ -20,7 +20,7 @@
     "Other"
   ],
   "icon": "icon.png",
-	"activationEvents": [],
+  "activationEvents": [],
   "main": "./dist/extension.js",
   "browser": "./dist/web/extension.js",
   "l10n": "./l10n",
@@ -223,7 +223,7 @@
       "explorer/context": [
         {
           "command": "hexEditor.compareSelected",
-          "group": "3_compare",
+          "group": "3_compare@30",
           "when": "listDoubleSelection"
         }
       ]
